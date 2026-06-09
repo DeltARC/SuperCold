@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Blueprint/BP_FirstPersonCharacter1.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Blueprint/BP_Enemy.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Input/IMC_Default.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/PQ/XD8QCJVOG4AHQH3CWOHHTR.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Blueprint/BPI_Enemy.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/VB/MRHUKY4YVWSY7ZF72VEMIY.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/JR/FRAS6LY14F5JBKBVB5B6ZX.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/9Z/82RG9NDJ53RNP4ZVXX82TE.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/FU/7Y1GZ9LQBD32SANFUM4M7W.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/ZE/B40NLACI4ZNI5M465613JL.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/P3/RXU5UVL2HBYN24TXUILIB6.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/PQ/M4PE8CRV5BUUCM7A1ED0N5.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/BA/N09DEG9J9EN37RK7TQ1J61.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Blueprint/BP_Rifle.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/W3/C98R0B88JP77CJM2OA77UC.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Material/davidprime_Mat.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/WP/SBT0ATKHS1AC8H0Z2RTZ5K.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/QP/F2HQNZO6DCC9MU475RRUAT.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/WA/9H76D2NDHST8K7IT2JAVKO.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/OE/VNAZ9UJ529BIKQXVKDZ1W8.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/SD/J3I9IFWVUQ5UXVNS2BTOM5.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2W/YXMX7H4Y8SH6YJJFSIEDYX.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/PC/7W80FHWOBPH22OGZP79R8N.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed1.uasset",
+				"C:/Users/bryan.jacob/Documents/GitHub/SuperCold/SUPERCOLD/Content/Material/davidprime.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset"
+			]
+		}
+	]
+}
